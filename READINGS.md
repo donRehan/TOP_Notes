@@ -6,3 +6,8 @@ https://internetingishard.netlify.app/html-and-css/links-and-images/#image-forma
 https://www.conventionalcommits.org/en/v1.0.0/
 https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units
 https://scrimba.com/scrim/co12d4cf99cf2776f19e84a9d
+https://2019.wattenberger.com/blog/css-cascade
+https://www.digitalocean.com/community/tutorials/how-to-load-and-use-custom-fonts-with-css#finding-and-loading-a-font-file-from-a-hosted-service
+https://www.youtube.com/watch?v=c0kfcP_nD9E
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference
+https://scrimba.com/scrim/c9gwmnAR
