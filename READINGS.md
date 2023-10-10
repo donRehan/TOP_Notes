@@ -13,3 +13,5 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference
 https://scrimba.com/scrim/c9gwmnAR
 https://internetingishard.netlify.app/html-and-css/flexbox/index.html
 https://scrimba.com/learn/flexbox/your-first-flexbox-layout-flexbox-tutorial-canLGCw
+https://www.w3.org/TR/css-flexbox-1/#flex-common
+https://developer.mozilla.org/en-US/docs/Web/CSS/flex
