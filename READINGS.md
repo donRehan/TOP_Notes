@@ -11,3 +11,5 @@ https://www.digitalocean.com/community/tutorials/how-to-load-and-use-custom-font
 https://www.youtube.com/watch?v=c0kfcP_nD9E
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference
 https://scrimba.com/scrim/c9gwmnAR
+https://internetingishard.netlify.app/html-and-css/flexbox/index.html
+https://scrimba.com/learn/flexbox/your-first-flexbox-layout-flexbox-tutorial-canLGCw
