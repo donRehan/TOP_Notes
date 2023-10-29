@@ -17,3 +17,4 @@ https://www.w3.org/TR/css-flexbox-1/#flex-common
 https://developer.mozilla.org/en-US/docs/Web/CSS/flex
 https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://www.youtube.com/watch?v=azcrPFhaY9k
